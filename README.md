@@ -1,7 +1,7 @@
 <p align="center">
 <img align="middle" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=450&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷" />
 </p>
-# 󠆴󠆢
+
  
 [![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/ezbw69)
 [![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")
