@@ -3,8 +3,8 @@
 </p>
 
  
-[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/ezbw69)
-[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")
+[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
+[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")
                                                           
 
 <p align="center">
@@ -22,5 +22,5 @@
 
 
 # My Stats ✮
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DAXXTEAM&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=shivinsclub&show_icons=true&theme=radical)
 
