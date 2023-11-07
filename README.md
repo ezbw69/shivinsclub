@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/043621173f67a52c1493b.jpg">
+<img src="https://telegra.ph/file/7c720637eb97e78f005bc.jpg">
 </p>
 
 # Github Streak ✮
