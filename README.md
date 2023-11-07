@@ -3,8 +3,8 @@
 </p>
 
  
-ㅤㅤㅤㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
-ㅤㅤㅤㅤㅤ[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")
+ㅤㅤㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
+ㅤㅤㅤㅤ[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")
                                                           
 
 <p align="center">
