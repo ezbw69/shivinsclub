@@ -2,7 +2,7 @@
    [![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=ezbw69 "shivinsclub")
                                                           
 <p align="center">
-<img align="middle" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=630&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷" />
+<img align="middle" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=450&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷" />
 </p>
 
 <p align="center">
