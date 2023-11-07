@@ -15,7 +15,7 @@
 <img src="https://telegra.ph/file/043621173f67a52c1493b.jpg">
 </p>
 
-# Github Streak ☠︎︎
+# Github Streak ✮
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=DAXXTEAM&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://DAXXTEAM.me)
 
