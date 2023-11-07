@@ -1,6 +1,6 @@
-ㅤㅤㅤㅤ<p align="center">
-ㅤㅤㅤㅤ<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=420&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷">
-ㅤㅤㅤㅤ</p>
+   <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=420&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷">
+</p>
 
  
 ㅤㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
