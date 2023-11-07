@@ -1,10 +1,10 @@
    <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=420&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=420&lines=🕷+𝙎𝙃𝙄𝙑𝙄𝙉𝙎+𝘾𝙇𝙐𝘽+🕷" />
 </p>
 
  
-ㅤㅤㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
-ㅤㅤㅤㅤ[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")
+ㅤㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/shivinsclub)
+ㅤㅤㅤ[![𝗦𝗛𝗜𝗩𝗜𝗡𝗦](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")](https://github-stats-alpha.vercel.app/api?username=shivinsclub "shivinsclub")
                                                           
 
 <p align="center">
